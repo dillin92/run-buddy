@@ -232,7 +232,7 @@ section {
 }
 /* End Trainer Section */
 
-/* Reach Out section */
+/* Reach Out Styles section */
 .contact {
   text-align: center;
   background-color: #024e76;
@@ -244,6 +244,7 @@ section {
 
 .contact h3 {
   color:#fce138;
+  font-size: 32px;
 }
 
 .contact a {
@@ -263,3 +264,12 @@ section {
   margin: 30px 0 0 60px;
   color: white;
 }
+
+.contact-info p, .contact-info address {
+  margin: 20px 0;
+  line-height: 1.5;
+  font-size: 20px;
+  font-style: normal;
+}
+
+/* REACH OUT STYLES END */
