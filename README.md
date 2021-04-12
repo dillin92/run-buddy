@@ -1,4 +1,4 @@
-# Run Buddy Inc
+# Run Buddy, Inc
 
 ## Purpose
 
@@ -10,11 +10,9 @@ A website that offers fitness training services.
 - CSS
 
 ## Website
-
 https://dillin92.github.io/run-buddy/
 
 ## Contribution
-
 Made with ❤️ by Dillin Helsley
 
-### ©️2019 Run Buddy, Inc
+### ©️2019 Run Buddy, Inc 
